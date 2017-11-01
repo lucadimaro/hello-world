@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
-
+Just another repo
 
 Try text Try text Try text Try text Try text 
